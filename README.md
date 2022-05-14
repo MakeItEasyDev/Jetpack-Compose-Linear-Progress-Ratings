@@ -1,6 +1,6 @@
 # Jetpack-Compose-Linear-Progress-Ratings
 
-## [Watch it On YouTube]()
+## [Watch it On YouTube](https://youtu.be/O8XksNFYKiI)
 
 ## License
 ```
